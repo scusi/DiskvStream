@@ -1,3 +1,5 @@
+// this is only a proof of concept for now.
+// nothing really usable
 package main
 
 import (
